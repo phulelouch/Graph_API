@@ -1,6 +1,6 @@
 From MSgraph to Sharepoint to get the UI, you have to impose as MSTeams, you can do this by call when request for token client_id=1fec8e78-bce4-4aaf-ab1b-5451cc387264
 
-#### Step 1: 
+### Step 1: 
 - The identifier “1fec8e78-bce4-4aaf-ab1b-5451cc387264” is the fixed client ID assigned by Microsoft to the Teams mobile/desktop application.
 - The “resource” parameter in OAuth is often used as an identifier, and the value “00000003-0000-0ff1-ce00-000000000000” usually corresponds to Microsoft Graph API. This is a well-known resource ID.
   
